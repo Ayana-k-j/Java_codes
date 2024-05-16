@@ -1,4 +1,4 @@
-/*Problem : update the elemts with odd no of characters into uppercase and create a new list
+/*Problem : update the elements with odd no of characters into uppercase and create a new list
 Given list : [Ashwin, Stalin, Bijoy, Ajoob]
 Expected result :[Ashwin, Stalin, BIJOY, AJOOB]*/
 // Concepts used : Maven, java 17,Streams,Collections,map,Strings
