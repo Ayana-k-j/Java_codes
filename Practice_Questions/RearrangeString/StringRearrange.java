@@ -2,7 +2,7 @@
 //Concepts used : String, StringBuffer, Loop
 package org.example;
 import java.util.*;
-public class App{
+public class StringRearrange{
     public static void main(String args[]){
 
         Scanner sc=new Scanner(System.in);
