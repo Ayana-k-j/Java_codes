@@ -2,7 +2,7 @@
 //Concepts used : List,Loop
 package org.example;
 import java.util.*;
-public class App{
+public class ListFactors{
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         System.out.println("---------Reading the Number-----------");
